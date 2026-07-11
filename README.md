@@ -10,7 +10,7 @@ icon: description
 
 ## Overview
 
-This document exists only to verify AgentX's document-context attachment end toend. It carries a unique, made-up identifier so its inclusion can be asserted.
+This document serves as a general-purpose Markdown syntax and feature reference. It carries a unique, made-up identifier so its inclusion can be asserted.
 
 In addition to standard Markdown documentation, this document highlights or supplements the following capabilities.
 
